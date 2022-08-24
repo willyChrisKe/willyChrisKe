@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @willyChrisKe
-- 👀 I’m interested in Web Development/software development
+- 👀 I am an aspiring software engineer and a data scientist
 - 🌱 I’m currently learning js having completed css and html and pursuing BSc Statistics at JKUAT
-- 💞️ I’m looking to collaborate on similar projects
+- 💞️ This is one of my fist projects
 - 📫 How to reach me ...leave a comment on my project
 
 <!---
